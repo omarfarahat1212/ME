@@ -3,11 +3,17 @@
 
 >🤖 AI Bootcamper 
 >📚 While (alive=true) { believe(); do(); learn(); }
-🚀 | Learning, Coding, and Exploring AI
+
+>🚀 | Learning, Coding, and Exploring AI
+
 🔭 Always inquisitive, forever a student of AI
+
 💡 Python & TensorFlow enthusiast
+
 🌟 On a mission to make AI more accessible to everyone
+
 🎯 Working towards creating intelligent systems
+
 🤝 Open to collaborations and sharing knowledge
 
 
