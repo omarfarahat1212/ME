@@ -2,15 +2,15 @@
 # Omar Hassanein
 
 >🤖 AI Bootcamper 
-📚 While (alive=true) { believe(); do(); learn(); }
+>📚 While (alive=true) { believe(); do(); learn(); }
 
-🔭 Always inquisitive, forever a student of AI
+>🔭 Always inquisitive, forever a student of AI
 
-💡 Python & TensorFlow enthusiast
+>💡 Python & TensorFlow enthusiast
 
-🌟 On a mission to make AI more accessible to everyone
+>🌟 On a mission to make AI more accessible to everyone
 
-🤝 Open to collaborations and sharing knowledge
+>🤝 Open to collaborations and sharing knowledge
 
 
 ## Contact Information
