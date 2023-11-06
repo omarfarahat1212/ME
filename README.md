@@ -1,6 +1,8 @@
-# Omar Hassanein's Resume
-🤖 AI Bootcamper 
-📚 While (alive=true) { believe(); do(); learn(); }
+# AboutME
+# Omar Hassanein
+
+>🤖 AI Bootcamper 
+>📚 While (alive=true) { believe(); do(); learn(); }
 🚀 | Learning, Coding, and Exploring AI
 🔭 Always inquisitive, forever a student of AI
 💡 Python & TensorFlow enthusiast
